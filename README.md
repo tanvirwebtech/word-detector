@@ -1,8 +1,14 @@
-# React + Vite
+---
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Word Detector
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+_Description:_
+This is a very Lightweight app for detecting words.
+
+_How this app works_
+
+-   There is two input area on this app. The larger one take the long text and small input field takes the search words.
+-   There is a scan button that initiate search in long text.
+-   After clicking Scan button search words go through the long text and if search words available in the text they highlight.
